@@ -1,4 +1,4 @@
-# Cap 11 – Manipulação de Banco de Dados em Java | JDBC + DAO
+Manipulação de Banco de Dados em Java | JDBC + DAO
 
 Atividade prática do Capítulo 11 do curso de Java na FIAP, com foco em **persistência de dados com JDBC** utilizando o padrão de projeto **DAO (Data Access Object)**. O projeto conecta a aplicação Java ao banco de dados Oracle para realizar operações CRUD completas nas entidades do sistema Fintech.
 
